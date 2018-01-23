@@ -1,0 +1,24 @@
+01. Sta je to JSON?
+Jako citljiv format za razmenu tekstualnih podataka izveden iz JavaScript-a
+02. Sta je to XML?
+Extensible Markup Language - (meta)jezik koji koristi tagove za oznacavanje podataka
+03. Sta je to URL?
+Uniform Resource Locator ili web-adresa koji locira fajlove na webu
+04. Sta je to HTTP?
+HyperText Transfer Protocol - protokol za prenos HTML sadrzaja
+05. Sta je to RESTful API?
+API koji sluzi za upravljanje podacima na webu
+06. Koje HTTP metode imamo?
+Dve najcesce metode za komunikaciju izmedju klijenta i servera su GET i POST.
+07. Sta je to DNS?
+Domain Name Service sluzi za uspostavljanje veze izmedju veb-sajta i IP adrese servera
+08. Sta je to private IP?
+Lokalna IP adresa
+09. Sta je to AJAX?
+AJAX omoguca razmenu podataka sa serverom u pozadini, bez potrebe ponovnog ucitavanja stranice
+10. Sta je to TCP/IP?
+Grupa protokola za komunikaciju izmedju uredjana na mrezi.
+11. Sta je to kes memorija?
+Memorija malog kapaciteta u koju se privremeno skladiste podaci koji se trenutno obradjuju.
+12. Koja je razlika izmedju klase i objekta?
+Objekti pripradaju klasama, klasa obuhvata grupu slicnih objekata
